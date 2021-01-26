@@ -1,3 +1,3 @@
 <?php
-print "What am I doing with my life"\n";
+print "What am I doing with my life \n";
 ?>
